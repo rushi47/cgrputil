@@ -1,0 +1,6 @@
+build/*
+cgrputil.egg-info/*
+venv/*
+dist/*
+build.txt
+test.py
